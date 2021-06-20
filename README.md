@@ -1,1 +1,2 @@
-# geologist-project24
+# Geologist
+Geologist Project
